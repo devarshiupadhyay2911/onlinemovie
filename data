@@ -1,0 +1,12 @@
+"id int()-Auto_Increment
+movie_name varchar(30)
+Description varchar(30)
+Language- varchar(10)
+Launch_date Date()
+duration_time time()
+Screen_no Int()
+Image Varchar()
+City varchar()
+amount int()
+status boolean(active,inactive)
+"
